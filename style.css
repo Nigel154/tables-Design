@@ -1,0 +1,50 @@
+caption{
+    display: flex;
+    gap: 8px;
+    color: rgb(189, 173, 173);
+}
+body{
+    background-color: rgb(221, 164, 173);
+}
+table{
+    background-color: rgb(228, 214, 214);
+    border-collapse: collapse;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 12%;
+    text-align: left;
+    width: 90%;
+    overflow: hidden;
+    border: 2px solid black;
+    
+
+
+    }
+    th{
+        background-color: black;
+        color: orangered;
+        
+        
+
+    }
+
+    div{
+        background-color: aliceblue;
+        max-width: 90%;
+        border-radius: 10px;
+        padding: 15px;
+        box-shadow: 10px 10px 10px rgba(0,0,0,2);
+        
+        
+
+        
+    }
+
+    tr:hover{
+        background-color: rgb(209, 144, 155);
+        
+    }
+
+    
+
+
